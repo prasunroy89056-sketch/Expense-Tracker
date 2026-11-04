@@ -105,6 +105,9 @@ Expense added successfully!
 =================================
 Total Expenses: ₹500
 =================================
+Output:
+<img width="1358" height="708" alt="image" src="https://github.com/user-attachments/assets/af7c12e7-dd46-4011-8c70-43ac373bb563" />
+
 
 
 Note: The above is an illustrative sample output. Actual output may vary depending on your project implementation.

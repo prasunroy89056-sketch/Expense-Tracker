@@ -1,4 +1,4 @@
-💰 Project Expense Tracker (Python)
+💰 Project Expense Tracker
 
 📌 About the Project
 

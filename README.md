@@ -113,6 +113,7 @@ Output:
 Note: The above is an illustrative sample output. Actual output may vary depending on your project implementation.
 
 GitHub:
-
+Author:
+      Subhojit jana
 
 Thank you for visiting my Project Expense Tracker!

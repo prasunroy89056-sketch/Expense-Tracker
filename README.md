@@ -26,7 +26,7 @@ Libraries:
 IDE: VS Code / PyCharm
 
 
-📂 Project Structure
+📂 Project Structure is the
 
 Project-Expense-Tracker/
 │

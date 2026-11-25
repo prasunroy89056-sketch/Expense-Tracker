@@ -113,7 +113,11 @@ Output is this:
 Note: The above is an illustrative sample output. Actual output may vary depending on your project implementation.
 
 GitHub:
-Author:
-      Subhojit jana
+Author or Team members list:
+      1.Subhajit jana
+      2.Prasun Kumar Roy
+      3.Subhankar Jana
+      4.Arpita Santra
+      5.Arpita Sasmal
 
 Thank you for visiting my Project Expense Tracker!
